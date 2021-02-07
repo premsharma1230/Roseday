@@ -26,14 +26,19 @@ body {
           align-items: center;
 }
 
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
 .rose {
   position: relative;
   width: 100px;
   height: 100px;
   top: 0%;
   left: 0%;
-  margin-left: -50px;
-  margin-top: -50px;
+  margin-left: 0px;
+  margin-top: 0px;
 }
 
 .Heading {
